@@ -3,7 +3,7 @@
 # Dev: FSystem88
 # Version: 5
 
-import requests as r, os, threading, random, click, fake_headers
+import r, os, threading, random, click, fake_headers
 from threading import Thread
 from colorama import Fore, Style, Back
 from fake_headers import Headers
